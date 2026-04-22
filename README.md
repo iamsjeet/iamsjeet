@@ -32,16 +32,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=iamjeet\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=iamsjeet\&show_icons=true\&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjeet\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* LinkedIn: (add later)
-* Email: (optional)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsjeet\&layout=compact\&theme=tokyonight)
 
 ---
 
